@@ -1,4 +1,4 @@
-# Car Rental System
+# Car Rental System: Assignment 1
 
 This project is a simple Car Rental System implemented in Java. It allows a rental agency to manage cars, customers, and rental transactions.
 
@@ -13,7 +13,7 @@ This project is a simple Car Rental System implemented in Java. It allows a rent
 ## Instructions for Running the Main Program
 
 1. Ensure you have Java installed on your machine.
-2. Navigate to the `Assignment1/src` directory in your terminal.
+2. Navigate to the `CarRental/` directory in your terminal.
 3. Compile the Java files using the following command:
     ```sh
     javac *.java
